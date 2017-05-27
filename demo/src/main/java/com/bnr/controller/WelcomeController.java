@@ -52,6 +52,9 @@ public class WelcomeController {
 		emp1.setEmpname("NAVEEN");
 		emp1.setEmpSal(45000);
 System.out.println("testing>..");
+System.out.println("br2");
+
+
 		li.add(emp);
 		li.add(emp1);
 		return li;
